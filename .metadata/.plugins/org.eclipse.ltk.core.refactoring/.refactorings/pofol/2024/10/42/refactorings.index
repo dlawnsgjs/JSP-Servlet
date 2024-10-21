@@ -1,0 +1,27 @@
+1729126223869	Delete elements
+1729126336105	Delete elements
+1729126995305	Rename resource 'sub.jsp'
+1729127328895	Copy package
+1729127331783	Delete element
+1729127356281	Rename package 'com.dao'
+1729127362320	Rename package 'com.dto'
+1729127423480	Move compilation unit
+1729127427835	Delete element
+1729127450387	Copy compilation unit
+1729127646710	Move 'login.jsp' to 'member'
+1729129803416	Delete elements
+1729149291543	Copy file
+1729150454589	Delete element
+1729220340320	Copy file
+1729221222860	Rename package 'com.login.dao'
+1729221250070	Rename package 'com.login.dto'
+1729221454491	Move compilation unit
+1729221459369	Delete element
+1729221580689	Move 'boardCheckPass.jsp' to 'board'
+1729222017431	Copy file
+1729222021775	Copy file
+1729222027702	Copy file
+1729222032431	Copy file
+1729222045679	Copy file
+1729223394141	Delete element
+1729223435736	Move 'board' to 'webapp'
